@@ -1,0 +1,2 @@
+# This command is used to make a local server, which is done by right clicking and opening powershell in the directory where the website files are saved.
+# The command is: python -m http.server --bind=localhost (--bind=localhost can be avoided)
